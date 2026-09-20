@@ -6,7 +6,7 @@ Made first version of the PCB
 <img width="1438" height="800" alt="image" src="https://github.com/user-attachments/assets/bf615305-677a-418c-9366-8f626effc12e" />
 
 # Day 2 (2 Hours 41 Minutes
-Figured out how to make a plate for the PCB
+Figured out how to make a plate for the PCB using Keyboard Layout Editor and Plate & Case Builder
 <img width="541" height="367" alt="image" src="https://github.com/user-attachments/assets/028a40bd-ee33-48e6-9a07-866edacdf10f" />
 
 Also started modeling a case around it in Fusion
