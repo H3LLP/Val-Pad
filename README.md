@@ -28,7 +28,7 @@ PCB Schematics
 | ~ | ~ | 4 | 4mm*2mm Circular Neodymium Magnets |
 | ~ | ~ | 4 | 4mm*30mm Keyboard Gasket Strips |
 | ~ | ~ | 4 | 3D Printed Parts |
-| ~ | ~ | 4 | Macbook 15 Pro Rubber Feet |
+| ~ | ~ | 4 | Macbook Pro Rubber Feet |
 | ~ | ~ | 1 | Set of 2U PCB Mounted MX Stabilizers |
 | ~ | ~ | 15 | 1U Keycaps |
 | ~ | ~ | 1 | 1.25U Keycaps |
