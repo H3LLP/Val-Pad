@@ -7,6 +7,7 @@ I wanted to make something fun and that I could actually use daily, so I made th
   - 19 switches
   - knob
   - gasket-mounted
+  - https://www.printables.com/model/1851866-val-pad
 <img width="1087" height="886" alt="image" src="https://github.com/user-attachments/assets/4d437e9a-a59b-4d7f-b3f1-135629573b8d" />
 
 # Electric Bits
