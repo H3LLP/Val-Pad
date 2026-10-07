@@ -14,10 +14,10 @@ I wanted to make something fun and that I could actually use daily, so I made th
 # Electric Bits
 
 PCB Schematics
-<img width="1928" height="827" alt="image" src="https://github.com/user-attachments/assets/23bd2335-fa3d-42b4-a9be-25423c75fece" />
-<img width="1334" height="819" alt="image" src="https://github.com/user-attachments/assets/013147ef-f09f-4dcc-80f5-5ca6f0211d71" />
-<img width="1426" height="932" alt="image" src="https://github.com/user-attachments/assets/347dd977-620e-414c-971e-b17781b723bf" />
-<img width="1383" height="873" alt="image" src="https://github.com/user-attachments/assets/84dfeaf7-062a-4002-ae49-bef4184795e8" />
+<img width="1952" height="904" alt="image" src="https://github.com/user-attachments/assets/327f73b7-66f7-4598-a3e3-1590f521a002" />
+<img width="1466" height="928" alt="image" src="https://github.com/user-attachments/assets/3200211a-608f-4c93-8d58-add7373dfbdc" />
+<img width="1461" height="1012" alt="image" src="https://github.com/user-attachments/assets/7e226807-5793-437a-a05f-fc6910183524" />
+<img width="1403" height="940" alt="image" src="https://github.com/user-attachments/assets/c21ba4db-a886-41f0-95f1-2cb799f80a42" />
 
 # BOM
 | Designator | Footprint | Quantity | Value |
@@ -27,6 +27,7 @@ PCB Schematics
 | SW1 | RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles | 1 | EC11 Rotary Encoder |
 | U1 | SOIC-28W_7.5x17.9mm_P1.27mm | 1 | MCP23017 Surface Mounted |
 | U2 | Seeed_XIAO_RP2040 | 1 | Seeed Xiao RP2040 |
+| R1, R2| 0603 | 2 |  4.7 kΩ, 0603 package, 1/10 W surface-mount resistors |
 | ~ | ~ | 4 | 4mm*2mm Circular Neodymium Magnets |
 | ~ | ~ | 4 | 4mm*30mm Keyboard Gasket Strips |
 | ~ | ~ | 4 | 3D Printed Parts |
