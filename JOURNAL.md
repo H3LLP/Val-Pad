@@ -27,3 +27,16 @@ After Change
 <img width="1432" height="960" alt="image" src="https://github.com/user-attachments/assets/4f0e57b7-4b94-4c71-96d3-48660067ccac" />
 <img width="1509" height="856" alt="image" src="https://github.com/user-attachments/assets/81a5f3ac-9b8b-4f3d-af6e-20225f047372" />
 <img width="1087" height="886" alt="Screenshot 2026-09-19 181834" src="https://github.com/user-attachments/assets/e2c59722-bcf6-453c-9a35-b2af17613dfe" />
+
+# Day 5 (2 Hours 25 minutes)
+
+Started working on QMK firmware and found out that my PCB schematic was partially wrong, so I had to fix it.
+Added two 4.7k pull up resistors for the MCP23017 and fixed the I2C connections.
+<img width="955" height="808" alt="image" src="https://github.com/user-attachments/assets/3ef7b9ab-3aef-4ebd-bec4-35eed29edf8e" />
+<img width="1466" height="928" alt="image" src="https://github.com/user-attachments/assets/316ce8e9-1880-4250-900f-13866ad262a9" />
+<img width="1461" height="1012" alt="image" src="https://github.com/user-attachments/assets/34f3ddea-2164-4006-8de8-77577e56a30b" />
+<img width="1403" height="940" alt="image" src="https://github.com/user-attachments/assets/66cb8188-d0a8-4020-b4fd-f8d11e242bcc" />
+Firmware
+<img width="863" height="867" alt="image" src="https://github.com/user-attachments/assets/1112163b-840c-4fc9-b9db-bd1532041390" />
+<img width="1631" height="1297" alt="image" src="https://github.com/user-attachments/assets/83119465-f775-4f5f-9761-38be52fe54b4" />
+
