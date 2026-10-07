@@ -28,7 +28,7 @@ After Change
 <img width="1509" height="856" alt="image" src="https://github.com/user-attachments/assets/81a5f3ac-9b8b-4f3d-af6e-20225f047372" />
 <img width="1087" height="886" alt="Screenshot 2026-09-19 181834" src="https://github.com/user-attachments/assets/e2c59722-bcf6-453c-9a35-b2af17613dfe" />
 
-# Day 5 (3 Hours)
+# Day 5 (2 Hours 54 Minutes)
 
 Started working on QMK firmware and found out that my PCB schematic was partially wrong, so I had to fix it. Then I redid the firmware.
 Added two 4.7k pull up resistors for the MCP23017 and fixed the I2C connections.
