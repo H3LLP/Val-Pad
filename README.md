@@ -18,22 +18,3 @@ PCB Schematics
 <img width="1466" height="928" alt="image" src="https://github.com/user-attachments/assets/3200211a-608f-4c93-8d58-add7373dfbdc" />
 <img width="1461" height="1012" alt="image" src="https://github.com/user-attachments/assets/7e226807-5793-437a-a05f-fc6910183524" />
 <img width="1403" height="940" alt="image" src="https://github.com/user-attachments/assets/c21ba4db-a886-41f0-95f1-2cb799f80a42" />
-
-# BOM
-| Designator | Footprint | Quantity | Value | Price |
-| --- | --- | --- | --- |
-| D1, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D2, D20, D3, D4, D5, D6, D7, D8, D9 | D_DO-35_SOD27_P7.62mm_Horizontal | 20 | 1N4148 (THT) Diode | $5 |
-| S1, S10, S11, S12, S13, S14, S15, S16, S17, S18, S19, S2, S3, S4, S5, S6, S7, S8, S9 | MX_PCB_1.00u | 19 | MX Switches | $20 |
-| SW1 | RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles | 1 | EC11 Rotary Encoder | $5 |
-| U1 | SOIC-28W_7.5x17.9mm_P1.27mm | 1 | MCP23017 Surface Mounted | $2 |
-| U2 | Seeed_XIAO_RP2040 | 1 | Seeed Xiao RP2040 | $7 |
-| R1, R2| 0603 | 2 |  4.7 kΩ, 0603 package, 1/10 W surface-mount resistors | $3 |
-| ~ | ~ | 4 | 4mm*2mm Circular Neodymium Magnets | $ 10 | 
-| ~ | ~ | 4 | 4mm*30mm Keyboard Gasket Strips | $7 |
-| ~ | ~ | 4 | 3D Printed Parts | $10 |
-| ~ | ~ | 4 | Macbook Pro Rubber Feet | $5 |
-| ~ | ~ | 1 | Set of 2U PCB Mounted MX Stabilizers | $10 |
-| ~ | ~ | 15 | 1U Keycaps | Varies |
-| ~ | ~ | 1 | 1.25U Keycaps | Varies |
-| ~ | ~ | 2 | 1.5U Keycaps | Varies |
-| ~ | ~ | 1 | 2U Keycap | Varies |
