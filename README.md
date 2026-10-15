@@ -38,3 +38,4 @@ PCB Schematics
 |~                                                                                        |~                                                                   |1       |1.25U Keycaps                                     |varies|
 |~                                                                                        |~                                                                   |2       |1.5U Keycaps                                      |varies|
 |~                                                                                        |~                                                                   |1       |2U Keycap                                         |varies|
+|~                                                                                        |~                                                                   |~       |~                                                 |Total $ 110-120|
