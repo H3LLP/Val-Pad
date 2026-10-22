@@ -17,7 +17,7 @@ My friend told me the PCB looked messy, so I redid the traces and added an extra
 <img width="1314" height="680" alt="image" src="https://github.com/user-attachments/assets/82a6106f-fe8f-45e0-bcd6-bbe41ef7401a" />
 <img width="1277" height="696" alt="image" src="https://github.com/user-attachments/assets/579a5566-6a43-4e4c-adc5-fea173305ecb" />
 
-# Day 4 (5.17)
+# Day 4 (5.17 Hours)
 Got working on a case for the new pcb, but realized I didn't like the layout and redid it AGAIN along with a new plate, so great use of my time
 Before Change
 <img width="1744" height="1178" alt="image" src="https://github.com/user-attachments/assets/5ea25560-5370-4cec-9bbe-964e98ddfe9f" />
