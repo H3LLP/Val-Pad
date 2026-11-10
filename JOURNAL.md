@@ -45,3 +45,7 @@ Firmware After:
 <img width="883" height="1316" alt="image" src="https://github.com/user-attachments/assets/00f407f6-df0e-4c6b-baa8-0924190fb435" />
 <img width="1498" height="1343" alt="image" src="https://github.com/user-attachments/assets/1953c1e0-9732-45c1-8579-cbf12be6657e" />
 <img width="582" height="269" alt="image" src="https://github.com/user-attachments/assets/c037bc60-775a-4088-8434-d55e55c9ec11" />
+
+# Build Process
+1st Timelapse, Lubed switches and stabilizer
+https://lapse.hackclub.com/timelapse/5Vqk2ihVJc-S
