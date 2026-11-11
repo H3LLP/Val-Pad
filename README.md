@@ -1,6 +1,7 @@
 # Val Pad
 
 A custom half-ish keyboard for gaming
+<img width="1536" height="1153" alt="image" src="https://github.com/user-attachments/assets/4fddf740-78c3-4ec9-b7ac-a85849d91f1a" />
 
 I wanted to make something fun and that I could actually use daily, so I made this. I needed the desk space as well since my mouse didn't have much room to move around, so this is my solution.
   - Magnetically closing case
