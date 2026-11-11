@@ -47,6 +47,11 @@ Firmware After:
 <img width="582" height="269" alt="image" src="https://github.com/user-attachments/assets/c037bc60-775a-4088-8434-d55e55c9ec11" />
 
 # Build Process
-1st Timelapse, I lubricated the switches and stabilizer
+1st Timelapse: I lubricated the switches and stabilizers
 https://lapse.hackclub.com/timelapse/5Vqk2ihVJc-S<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/cd3a53e0-0500-428a-a904-35bfaff4b59c" />
+
+2nd Timelapse: I soldered everything, but I forgot to record the first half...Whoops
+https://lapse.hackclub.com/timelapse/OBN4MaXadw_s<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/84e1d1cf-b760-4522-ab54-44e29cff3cc6" /><img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/c4e76eed-6289-44b2-a380-88ace62f0ab5" />
+
+
 
